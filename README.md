@@ -1,6 +1,9 @@
 Nick Mattheisen
+
 Cybersecurity & Resilience Leader | BC/DR, Incident Response & Risk Expert | Al & Emerging Tech Innovator | Author
+
 nickmattheisen.com
+
 linkedin.com/in/mattheisen
 
 <!---
