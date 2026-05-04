@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NismMathias
-- 👀 I’m interested in custom maps and solidity
-- 🌱 I’m currently learning solidity
-- 📫 How to reach me: nism.mathias@gmail.com
+Nick Mattheisen
+Cybersecurity & Resilience Leader | BC/DR, Incident Response & Risk Expert | Al & Emerging Tech Innovator | Author
+nickmattheisen.com
+linkedin.com/in/mattheisen
 
 <!---
 NismMathias/NismMathias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
